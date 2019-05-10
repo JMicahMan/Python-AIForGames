@@ -22,13 +22,7 @@ def MakeNodes():
         NodeList.append(Node(i))
 
 
-
-
-def MakeCurrent():
-
-    Node_Current = Node(6)
-
-
+#Stop lying to myself, make useful function names
 
 #Neighboor finding
 
